@@ -1,0 +1,10 @@
+{
+
+  "name": "@blen06970/brothtea",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@blen06970",
+  "repository": "https://github.com/cwerylwrSM/brothtea.git",
+  "license": "ISC"
+}
